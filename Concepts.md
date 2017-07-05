@@ -23,12 +23,12 @@ As soon as the Reporter performs changes to Data Objects, they are immediately p
 
 **References**
 
-* **Microservices** - a particular way of designing software applications as suites of independently deployable services ("Microservice Architecture"). While there is no precise definition of this architectural style, there are certain common characteristics around organization around business capability, automated deployment, intelligence in the endpoints, and decentralized control of languages and data - https://martinfowler.com/articles/microservices.html
+* **[Microservices](https://martinfowler.com/articles/microservices.html)** - a particular way of designing software applications as suites of independently deployable services ("Microservice Architecture"). While there is no precise definition of this architectural style, there are certain common characteristics around organization around business capability, automated deployment, intelligence in the endpoints, and decentralized control of languages and data.
 
-* Distributed Communications Networks - http://www.rand.org/pubs/research_memoranda/RM3420.html
+* [Distributed Communications Networks](http://www.rand.org/pubs/research_memoranda/RM3420.html)
 
 **Articles**
 
-* Walled gardens look rosy for Facebook, Apple – and would-be censors - https://www.theguardian.com/technology/2012/apr/17/walled-gardens-facebook-apple-censors
+* [Walled gardens look rosy for Facebook, Apple – and would-be censors](https://www.theguardian.com/technology/2012/apr/17/walled-gardens-facebook-apple-censors)
 
-* A decentralized web would give power back to the people online - https://techcrunch.com/2016/10/09/a-decentralized-web-would-give-power-back-to-the-people-online/
+* [A decentralized web would give power back to the people online](https://techcrunch.com/2016/10/09/a-decentralized-web-would-give-power-back-to-the-people-online/)
