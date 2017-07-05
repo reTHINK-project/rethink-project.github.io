@@ -20,7 +20,7 @@ The reTHINK Framework provides the tools to build a global decentralised network
 <td width="20%">Standards<br><a href="https://github.com/reTHINK-project/w3c"><img width="32" src="images/home.png"></a></td>
 <td width="20%">Tutorials<br><a href="Tutorials"><img width="26" src="images/glyphicon-book.png"></a></td>
 <td width="20%">Toolkits<br><a href="Toolkits"><img width="32" src="images/configuration.png"></a></td>
-<td width="20%">Use Cases<br><a href="Use Cases"><img width="44" src="images/usecase_icon.png"></a></td>
+<td width="20%">Use Cases<br><a href="Use-Cases"><img width="44" src="images/usecase_icon.png"></a></td>
 <td width="20%">Demos<br><a href="Demos"><img width="42" src="images/demo_icon.png"></a></td></tr>
 </table>
 <br>
