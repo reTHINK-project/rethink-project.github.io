@@ -10,17 +10,17 @@ The reTHINK Framework provides the tools to build a global decentralised network
 
 <table>
 <tr valign="top" align="center">
-<td width="20%">Concepts<br><a href="Concepts.md"><img width="23" src="https://github.com/reTHINK-project/startup/blob/draft/lightbulb.png"></a></td>
-<td width="20%">Specifications<br><a href="https://github.com/reTHINK-project/startup/wiki/Specifications"><img width="32" src="https://github.com/reTHINK-project/startup/blob/draft/txt.png"></a></td>
-<td width="20%">Architecture<br><a href="https://github.com/reTHINK-project/startup/wiki/Architecture"><img width="32" src="https://github.com/reTHINK-project/startup/blob/draft/resources.png"></a></td>
-<td width="20%">Framework Development<br><a href="https://github.com/reTHINK-project/startup/wiki/Framework Development"><img width="32" src="https://github.com/reTHINK-project/startup/blob/draft/code.png"></a></td>
-<td width="20%">Deployment<br><a href="https://github.com/reTHINK-project/startup/wiki/Deployment"><img width="32" src="https://github.com/reTHINK-project/startup/blob/draft/network-construction.png"></a></td>
+<td width="20%">Concepts<br><a href="Concepts"><img width="23" src="images/lightbulb.png"></a></td>
+<td width="20%">Specifications<br><a href="Specifications"><img width="32" src="images/txt.png"></a></td>
+<td width="20%">Architecture<br><a href="Architecture"><img width="32" src="images/resources.png"></a></td>
+<td width="20%">Framework Development<br><a href="Framework Development"><img width="32" src="images/code.png"></a></td>
+<td width="20%">Deployment<br><a href="Deployment"><img width="32" src="images/network-construction.png"></a></td>
 </tr>
 <tr valign="top" align="center">
-<td width="20%">Standards<br><a href="https://github.com/reTHINK-project/w3c"><img width="32" src="https://github.com/reTHINK-project/startup/blob/draft/home.png"></a></td>
-<td width="20%">Tutorials<br><a href="https://github.com/reTHINK-project/startup/wiki/Tutorials"><img width="26" src="https://github.com/reTHINK-project/startup/blob/draft/glyphicon-book.png"></a></td>
-<td width="20%">Toolkits<br><a href="https://github.com/reTHINK-project/startup/wiki/Toolkits"><img width="32" src="https://github.com/reTHINK-project/startup/blob/draft/configuration.png"></a></td>
-<td width="20%">Use Cases<br><a href="https://github.com/reTHINK-project/startup/wiki/Use Cases/"><img width="44" src="https://github.com/reTHINK-project/startup/blob/draft/usecase_icon.png"></a></td>
-<td width="20%">Demos<br><a href="https://github.com/reTHINK-project/startup/wiki/Demos/"><img width="42" src="https://github.com/reTHINK-project/startup/blob/draft/demo_icon.png"></a></td></tr>
+<td width="20%">Standards<br><a href="https://github.com/reTHINK-project/w3c"><img width="32" src="images/home.png"></a></td>
+<td width="20%">Tutorials<br><a href="Tutorials"><img width="26" src="images/glyphicon-book.png"></a></td>
+<td width="20%">Toolkits<br><a href="Toolkits"><img width="32" src="images/configuration.png"></a></td>
+<td width="20%">Use Cases<br><a href="Use Cases/"><img width="44" src="himages/usecase_icon.png"></a></td>
+<td width="20%">Demos<br><a href="Demos/"><img width="42" src="images/demo_icon.png"></a></td></tr>
 </table>
 <br>
