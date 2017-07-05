@@ -6,7 +6,7 @@ Therefore, the Registry serves as a location manager and is used for user discov
 Hyperties running in different devices communicate through Service Providers' Messaging Node or through P2P channels.
 Communications between Hyperties are secured with tokens generated and validated by independent Identity Providers through IdP Proxies that are dynamically deployed to the users' endpoints from a Catalogue Support Service.
 
-![reTHINK Framework Architecture](https://github.com/reTHINK-project/startup/tree/master/architecture/Arch.png)
+![reTHINK Framework Architecture](architecture/Arch.png)
 
 **Hyperty Runtime -** The Hyperty Runtime supports the execution of Hyperties providing all required functionalities to securely manage its life-cycle, only consuming back-end support Services when strictly required.
 The Runtime design enables the reuse of the core runtime components through different platforms including Browsers, Standalone Mobile Application, Network Side Application Servers and more constrained M2M/IoT standalone devices.
@@ -22,4 +22,4 @@ The discovery of End-users associated to Hyperty instance may imply the usage of
 **Identity Management/Identity Provider -** Verifies the Identity of an End-User, provides End-user authentication, authorisation and access to End-User profile information. User Id can be determined by different kind of identifiers: email, webID, OpenID, URL, mobile phone number or any other global identifier, and may have more than one authentication factor.
 
 
-More information [here](https://github.com/reTHINK-project/startup/architecture/readme.md).
+More information [here](architecture/readme.md).
