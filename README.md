@@ -13,7 +13,7 @@ The reTHINK Framework provides the tools to build a global decentralised network
 <td width="20%">Concepts<br><a href="Concepts"><img width="23" src="images/lightbulb.png"></a></td>
 <td width="20%">Specifications<br><a href="Specifications"><img width="32" src="images/txt.png"></a></td>
 <td width="20%">Architecture<br><a href="Architecture"><img width="32" src="images/resources.png"></a></td>
-<td width="20%">Framework Development<br><a href="Framework Development"><img width="32" src="images/code.png"></a></td>
+<td width="20%">Framework Development<br><a href="Framework-Development"><img width="32" src="images/code.png"></a></td>
 <td width="20%">Deployment<br><a href="Deployment"><img width="32" src="images/network-construction.png"></a></td>
 </tr>
 <tr valign="top" align="center">
