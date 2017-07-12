@@ -1,6 +1,6 @@
 ## Application development
 
-Developers can use Hyperties in Applications by using any framework or tool, with a few lines of code as fully explained [here](https://github.com/reTHINK-project/specs/blob/master/tutorials/development-of-apps.md).
+Developers can use Hyperties in Applications by using any framework or tool, with a few lines of code as fully explained [here](specs/tutorials/development-of-apps.html).
 
 You can start by having a look on [this example](https://github.com/reTHINK-project/dev-app).
 
@@ -9,7 +9,7 @@ You can start by having a look on [this example](https://github.com/reTHINK-proj
 Currently the hyperty toolkit can be used to develop hyperties to be executed in the Browser or in the NodeJS.
 You can find a quick start [here](https://github.com/reTHINK-project/dev-hyperty-toolkit#quick-start) and full documentation [here](https://github.com/reTHINK-project/dev-hyperty-toolkit/wiki) including the Hello World Hyperty.
 
-A set of APIs are provided to help the development of Hyperties as documented [here](https://github.com/reTHINK-project/specs/blob/master/service-framework/readme.md)
+A set of APIs are provided to help the development of Hyperties as documented [here](specs/service-framework)
 
 Have a look on [available Hyperties](https://github.com/reTHINK-project/dev-hyperty).
 
