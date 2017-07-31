@@ -1,12 +1,32 @@
-# reTHINK Framework
+# Welcome to Worldwide Real Time Decentralized Communications
 
-The reTHINK Framework is a decentralised communication infrastructure (licensed with Apache 2.0) that enables developers to easily build and integrate, communication services that are faster, more effective , more trustful and inherently inter-operable. Write once, deploy anywhere, together with seamless cross domain Interoperability, gives developers and service providers much more freedom to really focus on users' expectations.
+reTHINK Framework provides the tools to build a global real-time decentralized communication infra-structure where services are inherently inter-operable.
 
-Ultimately, reTHINK framework is an alternative to current dominant walled garden communication networks that prevent new developers and new service providers from entering in the market and, at the same time, empowers the users with the choice and the management of their private data and identities.
+Network effects can now be created by many millions businesses and not by a couple of big corporations and monopolies, creating the foundations for a more balanced economy, promoting a society with less inequalities.
 
-The reTHINK Framework provides the tools to build a global decentralised network of [Hyperlinked Entities (hyperties)](https://github.com/reTHINK-project/specs/blob/master/tutorials/hyperty.md) that are executed at the edge and trustfully communicates through a [Decentralised Messaging Framework](https://github.com/reTHINK-project/specs/blob/master/messaging-framework/readme.md).
+# Adhoc Interoperability with Quasi Zero Standards
 
-## Index
+Thanks to radical new concepts like Protocol on-the-fly and Reporter-Observer peer-to-peer data synchronization pattern, Decentralized Applications developed by different teams and deployed in different domains, can easily interoperate, without having to agree in advance on common protocols or service APIs [...](Concepts).
+
+# Power back to People: Decentralized Trust with new or existing Identity Providers
+
+The reTHINK Framework empowers the users with the choice and the management of their private data and identities [...](concepts/decentralized-trust.md).
+
+# Hyperties: the new reusable building block to develop complex decentralized Applications
+
+The reTHINK Framework enables the usage of cutting edge software engineering in the Decentralized Ecosystem. By following microservices architectural patterns, Hyperties are independently deployable components each one providing a small set of business capabilities, using the smart endpoints and dumb pipes philosophy [...](specs/tutorials/development-of-apps.md).
+
+```javascript
+rethink.install(config).then((runtime) => {
+  runtime.requireHyperty('hyperty-catalogue://catalogue.example.com/.well-known/hyperty/HelloWorldReporter').then((hyperty)=>{
+    hyperty.instance.hello();
+
+    });
+  }).catch(function(reason) {
+  console.error(reason);
+  });
+```
+
 
 <table>
 <tr valign="top" align="center">

@@ -19,7 +19,7 @@ It extends existing Observable communication patterns by using a P2P data stream
 The Reporter is the only peer with permissions to write to the Data Object while all the other service instances only have permissions to read the Data Object - the Observers.
 As soon as the Reporter performs changes to Data Objects, they are immediately propagated to any authorized Observer. More information [here](concepts/reporter-observer.md)
 
-**Hyperties** - Hyperties is a new service paradigm built on top of reTHINK decentralized communication framework that follows microservices architectural patterns. This meanins Hyperties are independently deployable components each one providing a small set of business capabilities, using the smart endpoints and dumb pipes philosophy. More information [here](concepts/hyperty.md).
+**Hyperties** - Hyperties is a new service paradigm built on top of reTHINK decentralized communication framework that follows microservices architectural patterns. This means Hyperties are independently deployable components each one providing a small set of business capabilities, using the smart endpoints and dumb pipes philosophy. More information [here](concepts/hyperty.md).
 
 **References**
 
