@@ -1,3 +1,9 @@
+---
+layout: page
+title: reTHINK Framework Specifications
+permalink: /specifications/
+---
+
 The [reTHINK Framework Specifications](specs) are composed of:
 
 * the [service framework specification](specs/service-framework/) that provides some libraries to facilitate the development of Hyperties compliant with the specs.

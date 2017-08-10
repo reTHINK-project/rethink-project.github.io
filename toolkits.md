@@ -1,3 +1,9 @@
+---
+layout: page
+title: reTHINK Toolkits
+permalink: /toolkits/
+---
+
 ## Application development
 
 Developers can use Hyperties in Applications by using any framework or tool, with a few lines of code as fully explained [here](specs/tutorials/development-of-apps.html).

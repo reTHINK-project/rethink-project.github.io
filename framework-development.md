@@ -1,3 +1,9 @@
+---
+layout: page
+title: reTHINK Framework implementation
+permalink: /framework-development/
+---
+
 ## reTHINK Framework implementation
 
 A reference implementation to support the initial Specification is provided:

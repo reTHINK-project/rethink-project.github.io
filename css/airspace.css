@@ -178,6 +178,9 @@ main {
 #service .service-item {
   padding-bottom: 30px;
 }
+#service .service-item a {
+  cursor: pointer;
+}
 #service .service-item i {
   font-size: 60px;
   color: #4A4656;
