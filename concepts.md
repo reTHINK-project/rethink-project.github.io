@@ -1,6 +1,8 @@
 ---
 layout: page
 title: reTHINK Main Concepts
+subtitle: Decentralized Communications
+excerpt: The reTHINK framework introduces a new communication paradigm called **Decentralized Communications** which enables cross-domain communication services to trustfully use peer-to-peer networks.
 permalink: /concepts/
 ---
 

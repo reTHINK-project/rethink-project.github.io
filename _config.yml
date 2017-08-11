@@ -8,6 +8,8 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
+name: reThink
+
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
@@ -27,18 +29,20 @@ twitter_username: jekyllrb
 github_username:  reTHINK-project
 slack_channel: rethink-project
 
+# Github configuration
+github: [metadata]
+
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
 
-# Site menu settings
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
 header_pages:
-  - documentation.html
-  - features.html
-  - about.html
-# End
+- about.md
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
