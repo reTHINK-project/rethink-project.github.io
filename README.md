@@ -12,9 +12,9 @@ Thanks to radical new concepts like Protocol on-the-fly and Reporter-Observer pe
 
 The reTHINK Framework empowers the users with the choice and the management of their private data and identities [...](concepts/decentralized-trust.md).
 
-# Hyperties: the new reusable building block to develop complex decentralized Applications
+# Hyperties: building block for decentralized Applications
 
-The reTHINK Framework enables the usage of cutting edge software engineering in the Decentralized Ecosystem. By following microservices architectural patterns, Hyperties are independently deployable components each one providing a small set of business capabilities, using the smart endpoints and dumb pipes philosophy [...](specs/tutorials/development-of-apps.md).
+The reTHINK Framework enables the usage of cutting edge software engineering in the Decentralized Ecosystem. By following microservices architectural patterns, Hyperties are independently components deployable in your browser or on NodeJS, each one providing a small set of business capabilities, using the smart endpoints and dumb pipes philosophy [...](specs/tutorials/development-of-apps.md).
 
 ```javascript
 rethink.install(config).then((runtime) => {
