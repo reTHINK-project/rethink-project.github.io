@@ -1,3 +1,9 @@
+---
+layout: page
+title: reTHINK Tutorials
+permalink: /tutorials/
+---
+
 A set of tutorials is provided to support the development of Hyperties, Apps and Message Nodes:
 
 * [Hyperty Concept Overview](specs/tutorials/hyperty.md)

@@ -1,3 +1,9 @@
+---
+layout: page
+title: reTHINK Demonstrations
+permalink: /demos/
+---
+
 ## Demonstrations
 
 A few Hyperty demos are available, including:

@@ -1,3 +1,9 @@
+---
+layout: page
+title: reTHINK Use Cases
+permalink: /use-cases/
+---
+
 List of use cases organized by category:
 
 ### H2H Communication UC

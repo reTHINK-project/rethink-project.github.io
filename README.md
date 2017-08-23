@@ -1,3 +1,9 @@
+---
+layout: page
+title: testing
+permalink: /
+---
+
 # Welcome to Worldwide Real Time Decentralized Communications
 
 reTHINK Framework provides the tools to build a global real-time decentralized communication infra-structure where services are inherently inter-operable.
