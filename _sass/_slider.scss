@@ -32,13 +32,11 @@
   font-size: 5rem; /* 80/16 */
   color: $title_color;
   line-height: 5rem;
-  letter-spacing: 10px;
   padding-bottom: 45px;
 }
 #slider .block p {
   font-size: 23px;
   line-height: 40px;
-  font-family: 'Roboto', sans-serif;
-  font-weight: 300;
-  letter-spacing: 3px;
+  font-family: $secondary_font;
+  font-weight: 600;
 }
