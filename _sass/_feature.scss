@@ -1,5 +1,6 @@
 #feature {
-  background: url("../img/featue-bg.jpg");
+  background: linear-gradient(to left, dimgrey 5%,white 100%), url("../img/slider2-bg.jpg");
+  background-blend-mode: exclusion;
   width: 100%;
   display: block;
   position: relative;
