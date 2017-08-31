@@ -29,6 +29,7 @@ h2 {
   font-weight: 600;
   position: relative;
   font-family: $primary_font;
+  padding-top: 25px;
   &:before {
     content: " ";
     width: 134px;
@@ -62,7 +63,6 @@ a:active {
 }
 .section-title.center-title {
   h2 {
-    padding-top: 25px;
     margin: 0;
     text-align: center;
     &:before {

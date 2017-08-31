@@ -66,26 +66,27 @@ layout: home
 <section id="feature">
   <div class="container">
     <div class="row">
-      <div class="col-md-6 col-md-offset-6">
+      <div class="col-md-6 col-sm-12">
+<pre class="line-numbers">
+  <code class="language-javascript">
+  rethink.install(config).then((runtime) => {
+    runtime.requireHyperty('hyperty-catalogue://catalogue.example.com/.well-known/hyperty/HelloWorldReporter').then((hyperty) => {
+      hyperty.instance.hello();
+
+      });
+  }).catch(function(reason) {
+    console.error(reason);
+  });
+  </code>
+</pre>
+      </div>
+      <div class="col-md-6 col-sm-12">
         <h2>Hyperties: the new reusable building block to develop complex decentralized Applications</h2>
         <p>The reTHINK Framework enables the usage of cutting edge software engineering in the Decentralized Ecosystem.</p>
         <p>By following microservices architectural patterns, Hyperties are independently deployable components each one providing a small set of business capabilities, using the smart endpoints and dumb pipes philosophy.</p>
         <p></p>
-<pre class="line-numbers">
-  <code class="language-javascript">
-    rethink.install(config).then((runtime) => {
-      runtime.requireHyperty('hyperty-catalogue://catalogue.example.com/.well-known/hyperty/HelloWorldReporter').then((hyperty) => {
-        hyperty.instance.hello();
-
-        });
-    }).catch(function(reason) {
-      console.error(reason);
-    });
-  </code>
-</pre>
-
-        <a href="#" class="btn btn-view-works">View Works</a>
       </div>
+
     </div>
   </div>
 </section>
