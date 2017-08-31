@@ -1,0 +1,71 @@
+html {
+  font-size: 16px;
+}
+
+/*--
+	Common Css
+--*/
+body {
+  font-family: $secondary_font;
+  -webkit-font-smoothing: antialiased;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $primary_font;
+}
+
+h1 {
+  font-size: 1.625rem; /* 26/16 */
+  color: $title_color;
+  font-weight: 100;
+}
+
+h2 {
+  font-size: 30px;
+  font-weight: 400;
+}
+h3 {
+  font-size: 28px;
+  font-weight: 300;
+}
+p {
+  font-size: 15px;
+  line-height: 28px;
+}
+ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+a,
+a:active,
+a:focus,
+a:active {
+  text-decoration: none !important;
+}
+.section-title {
+  margin-bottom: 70px;
+}
+.section-title h2 {
+  text-transform: uppercase;
+  font-size: 28px;
+  font-weight: 600;
+}
+.section-title p {
+  font-family: 'Volkhov', serif;
+  font-style: italic;
+  color: #666;
+}
+
+
+/*--
+	Main Start
+--*/
+
+main {
+  padding-top: 90px;
+}

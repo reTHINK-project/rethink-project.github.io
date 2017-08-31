@@ -1,1 +1,23 @@
-$h1_color: orange;
+//
+// title: raleway thin, 60pt, rgb(0,222, 255)
+//
+
+// Font Variables
+$primary_font: 'Raleway', serif;
+$secondary_font: 'Open Sans', sans-serif;
+
+$blue: #00deff;
+$black: #000;
+$white: #fff;
+
+// Colors
+$title_color: $blue;  // rgb(0,222, 255);
+$subtitle_color: $black; // rgb(0, 0, 0);
+
+// Header
+$header_bg_color: $black;
+
+// Menu
+$menu_item_size: 16px !default;
+$menu_color: $white;
+$menu_color_hover: $blue;
