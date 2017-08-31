@@ -60,6 +60,16 @@ a:active {
 .section-title {
   margin-bottom: 70px;
 }
+.section-title.center-title {
+  h2 {
+    padding-top: 25px;
+    margin: 0;
+    text-align: center;
+    &:before {
+    left:calc(50% - 68px); // 68px = 134/2 from title line
+  }
+}
+}
 .section-title p {
   font-style: italic;
   font-size: 1rem;

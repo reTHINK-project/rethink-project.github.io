@@ -2,15 +2,12 @@
 /*--
 	wrapper Start
 --*/
-#intro {
+#concept {
   padding: 100px 0;
+  background-color: $gray;
 
   .block {
-
-    h2 {
-      padding-top: 25px;
-      margin: 0;
-    }
+    text-align: center;
 
     p {
       color: #7B7B7B;
@@ -18,8 +15,6 @@
     }
 
     img {
-      padding-left: 40px;
-      width: 100%;
     }
 
 
