@@ -17,10 +17,16 @@
   box-sizing: border-box;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
-  padding: 100px 0; 
+  padding: 100px 0;
   h2 {
   }
   p {
+  }
+  .holder {
+    padding: 10px 14px;
+    background: rgba(0, 0, 0, .4);
+    border-radius: 6px;
+    border: 1px solid white;
   }
 
 }
