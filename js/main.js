@@ -1,17 +1,13 @@
 $(document).ready(function(){
 
-
 	$("#portfolio-contant-active").mixItUp();
 
 
 	$("#testimonial-slider").owlCarousel({
-	    paginationSpeed : 500,      
+	    paginationSpeed : 500,
 	    singleItem:true,
 	    autoPlay: 3000,
 	});
-
-
-
 
 	$("#clients-logo").owlCarousel({
 		autoPlay: 3000,
@@ -47,7 +43,3 @@ $(document).ready(function(){
 
 
 });
-
-
-
-

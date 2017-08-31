@@ -8,6 +8,8 @@ html {
 body {
   font-family: $secondary_font;
   -webkit-font-smoothing: antialiased;
+
+  overflow-x: hidden;
 }
 h1,
 h2,
