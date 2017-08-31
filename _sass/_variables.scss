@@ -1,6 +1,9 @@
 //
 // title: raleway thin, 60pt, rgb(0,222, 255)
 //
+// Google Fonts
+@import url(http://fonts.googleapis.com/css?family=Raleway:100,300,400,600);
+@import url(//fonts.googleapis.com/css?family=Open+Sans:400,300,600);
 
 // Font Variables
 $primary_font: 'Raleway', serif;
@@ -18,6 +21,6 @@ $subtitle_color: $black; // rgb(0, 0, 0);
 $header_bg_color: $black;
 
 // Menu
-$menu_item_size: 16px !default;
+$menu_item_size: 1rem !default;
 $menu_color: $white;
 $menu_color_hover: $blue;
