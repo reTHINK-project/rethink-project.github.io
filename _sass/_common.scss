@@ -79,6 +79,10 @@ a:active {
   font-size: 1rem;
 }
 
+.no-gutter [class*='col-'] {
+    padding-right:0;
+    padding-left:0;
+}
 
 /*--
 	Main Start
