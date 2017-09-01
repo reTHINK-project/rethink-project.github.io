@@ -38,28 +38,33 @@ footer {
       padding: 24px 10px;
     }
   }
-  .footer-manu {
-    padding-bottom: 25px;
-    ul {
-      margin: 0px;
-      padding: 0px;
-      li {
-        display: inline-block;
-        padding: 0px 20px;
-        a {
-          display: inline-block;
-          color: #494949;
-          &:hover {
-            color: #000;
-          }
-        }
-      }
+  .footer-menu {
+    p, a {
+      font-style: 14px;
+      color: white;
+      font-weight: 600;
+      text-align: left;
+    }
+    h5 {
+      font-size: 16px;
+      color: $blue;
+      text-align: left;
+      font-weight: 600;
     }
   }
   .social-media-list {
     float: left;
     width: 100%;
     margin-top: 60px;
+  }
+  .footer-footer {
+
+    border-top: 1px solid $blue;
+    padding-top: 20px;
+
+    ul {
+      text-align: left;
+    }
   }
 
 }

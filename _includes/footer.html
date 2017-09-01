@@ -1,36 +1,23 @@
 <!-- footer Start -->
 <footer>
-
   <div class="container">
     <div class="row">
-
-    {% include subscribe.html %}
-
-    <!-- <h2 class="footer-heading">Keep in touch with us</h2> -->
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>
-            {% if site.author %}
-              {{ site.author | escape }}
-            {% else %}
-              {{ site.title | escape }}
-            {% endif %}
-            </li>
-            {% if site.email %}
-            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description | escape }}</p>
+      <div class="subscribe col-md-8 col-md-offset-2">
+        {% include subscribe.html %}
       </div>
     </div>
-
-    <p>Copyright &copy; Design &amp; Developed by <a href="http://www.themefisher.com">Themefisher</a>. All rights reserved.</p>
-
+    <div class="row footer-footer">
+      <div class="footer-menu col-md-6 col-sm-12">
+        <div class="col-md-3 col-sm-12" >
+          <img src="img/ue-logo.jpg" alt="Img">
+        </div>
+        <div class="col-md-9 col-sm-12" >
+          <p>{{ site.description | escape }}</p>
+        </div>
+      </div>
+      <div class="footer-menu col-md-6 col-sm-12">
+      {% include footer-menu.html %}
+      </div>
+    </div>
   </div>
-
 </footer>
