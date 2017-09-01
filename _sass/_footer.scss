@@ -39,18 +39,29 @@ footer {
     }
   }
   .footer-menu {
+
+    img {
+      display: inline;
+    }
+
     p, a {
       font-style: 14px;
       color: white;
       font-weight: 600;
       text-align: left;
+
     }
     h5 {
       font-size: 16px;
       color: $blue;
       text-align: left;
       font-weight: 600;
+
+      @media (max-width: 768px) {
+        text-align: center;
+      }
     }
+
   }
   .social-media-list {
     float: left;
@@ -61,9 +72,16 @@ footer {
 
     border-top: 1px solid $blue;
     padding-top: 20px;
-
     ul {
+      @media (max-width: 768px) {
+        display: inline-block;
+        li {
+          text-align: center;
+        }
+      }
+      display: block;
       text-align: left;
+      width: 100%;
     }
   }
 
