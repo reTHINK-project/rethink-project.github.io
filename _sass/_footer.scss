@@ -18,6 +18,8 @@ footer {
     color: #595959;
   }
   .subscribe {
+    margin-bottom: 120px;
+    float: left;
     p {
       font-size: 1.125rem; /* 18/16 */
       color: #FFFFFF;
@@ -54,4 +56,10 @@ footer {
       }
     }
   }
+  .social-media-list {
+    float: left;
+    width: 100%;
+    margin-top: 60px;
+  }
+
 }

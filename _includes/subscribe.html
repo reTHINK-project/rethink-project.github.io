@@ -10,4 +10,17 @@
     <button type="submit" class="btn btn-submit">SUBMIT</button>
     </div>
   </form>
+  <ul class="social-media-list">
+    {% if site.github_username %}
+    <li class="social-icons">{% include icon-github.html username=site.github_username %}</li>
+    {% endif %}
+
+    {% if site.twitter_username %}
+    <li class="social-icons">{% include icon-twitter.html username=site.twitter_username %}</li>
+    {% endif %}
+
+    {% if site.slack_channel %}
+    <li class="social-icons">{% include icon-slack.html channel=site.slack_channel %}</li>
+    {% endif %}
+  </ul>
 </section>

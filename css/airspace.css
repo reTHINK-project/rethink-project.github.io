@@ -385,21 +385,7 @@
   font-size: 20px;
   width: 20px;
 }
-.social-icons {
-  margin-top: 40px;
-}
-.social-icons li {
-  display: inline-block;
-  margin: 0 6px;
-}
-.social-icons a {
-  display: inline-block;
-}
-.social-icons i {
-  color: #2C2C2C;
-  margin-right: 25px;
-  font-size: 25px;
-}
+
 .google-map {
   position: relative;
 }
