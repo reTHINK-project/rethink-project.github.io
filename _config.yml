@@ -17,7 +17,7 @@ name: reThink
 # in the templates via {{ site.myvariable }}.
 title: reThink Project
 subtitle: This is the starting point for new rethinkers
-email: your-email@example.com
+email: github@rethink-project.eu
 description: > # this means to ignore newlines until "baseurl:"
   reTHINK Framework provides the tools to build a global
   real-time decentralized communication infra-structure
@@ -31,6 +31,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rethink_eu
 github_username:  reTHINK-project
 slack_channel: rethink-project
+version: 0.6.1
 
 # Github configuration
 github: [metadata]
