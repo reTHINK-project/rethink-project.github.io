@@ -23,4 +23,19 @@
   }
   p {
   }
+  a {
+    color: $title_color;
+    text-transform: uppercase;
+
+    &:hover {
+      color: $menu_color_hover;
+    }
+
+    &:active {
+      color: $menu_color_hover;
+      text-decoration: underline;
+    }
+
+  }
+
 }
