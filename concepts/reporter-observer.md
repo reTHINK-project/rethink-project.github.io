@@ -1,6 +1,7 @@
 ## Reporter - Observer data stream Synchronization
 
 While the Protofly provides transport interoperability without requiring the standardisation of messaging protocols, the Reporter -- Observer communication pattern enables semantic interoperability between Services without having to standardize Service APIs.
+
 This pattern extends existing Observable communication patterns by using a P2P data stream synchronization solution for programmatic Objects, e.g. JSON Objects, hereafter simply called Data Objects.
 
 To avoid concurrency inconsistencies between peers, only one peer is granted writing permissions to the Data Object -- the Reporter service.

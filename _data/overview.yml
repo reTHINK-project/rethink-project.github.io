@@ -1,49 +1,49 @@
 - title: "Concepts"
   description: "Decentralized Communications, Protocol on-the-fly, Reporter-Observer p2p data synchronisation and Hyperties"
   icon: "coffee"
-  path: /concepts/
+  path: specs/concepts/
 
 - title: "Specifications"
   description: "You’ll find here the full detailed specification of reTHINK Framework "
   icon: "compass"
-  path: /specifications/
+  path: specs/
 
 - title: "Architecture"
   description: "The reTHINK architectural functions are based on a series of Hyperties "
   icon: "image"
-  path: /architecture/
+  path: specs/concepts/architecture
 
 - title: "Framework Development"
   description: "A reference implementation to support the initial Specification is provided "
   icon: "bug"
-  path: /framework-development/
+  path: specs/tutorials/development-of-core-framework
 
 - title: "Deployment"
   description: "In order to setup your own reTHINK Framework, you should install the several components "
   icon: "headphone"
-  path: /deployment/
+  path: specs/deployment/
 
 - title: "Standards"
   description: " "
   icon: "leaf"
-  path: /standards/
+  path: specs/standards/
 
 - title: "Tutorials"
   description: "A set of tutorials is provided to support the development of Hyperties, Apps and Message Nodes "
   icon: "planet"
-  path: /tutorials/
+  path: specs/tutorials/
 
-- title: "Toolkits"
-  description: "Developers can use Hyperties in Applications by using any framework or tool, with a few lines of code "
-  icon: "earth"
-  path: /toolkits/
+#- title: "Toolkits"
+#  description: "Developers can use Hyperties in Applications by using any framework or tool, with a few lines of code "
+#  icon: "earth"
+#  path: specs/tutorials/
 
 - title: "Use Cases"
   description: "List of use cases "
   icon: "mouse"
-  path: /use-cases/
+  path: specs/use-cases/
 
 - title: "Demos"
   description: "A few Hyperty demos are available, Group Chat, WebRTC Audio and Video... "
   icon: "monitor"
-  path: /demos/
+  path: /specs/tests/
