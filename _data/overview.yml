@@ -1,7 +1,7 @@
 - title: "Concepts"
   description: "Decentralized Communications, Protocol on-the-fly, Reporter-Observer p2p data synchronisation and Hyperties"
   icon: "coffee"
-  path: specs/concepts/readme
+  path: specs/concepts/foundations/
 
 - title: "Specifications"
   description: "You’ll find here the full detailed specification of reTHINK Framework "
