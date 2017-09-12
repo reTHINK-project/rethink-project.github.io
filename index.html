@@ -72,13 +72,12 @@ layout: home
         <div class="holder">
 <pre class="line-numbers">
   <code class="language-javascript">
-  rethink.install(config).then((runtime) => {
-    runtime.requireHyperty('hyperty-catalogue://catalogue.example.com/.well-known/hyperty/HelloWorldReporter').then((hyperty) => {
-      hyperty.instance.hello();
-
-      });
-  }).catch(function(reason) {
-    console.error(reason);
+  rethink.default.install(config).then((runtime) => {
+    runtime.requireHyperty(helloWorldReporterCatalogueURL).then((hyperty) => {
+        hyperty.instance.hello(observer);
+        });
+    }).catch(function(reason) {
+  console.error(reason);
   });
   </code>
 </pre>
