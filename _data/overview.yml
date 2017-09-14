@@ -3,23 +3,28 @@
   icon: "coffee"
   path: specs/concepts/foundations/
 
-- title: "Specifications"
-  description: "You’ll find here the full detailed specification of reTHINK Framework "
-  icon: "compass"
-  path: specs/
+- title: "Tutorials"
+  description: "A set of tutorials is provided to support the development of Hyperties, Apps and Message Nodes "
+  icon: "planet"
+  path: specs/tutorials/readme
 
 - title: "Architecture"
   description: "The reTHINK architectural functions are based on a series of Hyperties "
   icon: "image"
   path: specs/concepts/architecture
 
-- title: "Framework Development"
+- title: "Documentation"
+  description: "You’ll find here the full detailed specification of reTHINK Framework "
+  icon: "compass"
+  path: specs/
+
+- title: "Contribute"
   description: "A reference implementation to support the initial Specification is provided "
   icon: "bug"
   path: specs/tutorials/development-of-core-framework
 
 - title: "Deployment"
-  description: "In order to setup your own reTHINK Framework, you should install the several components "
+  description: "In order to setup your own reTHINK Domain, you just need to install three back-end services with a single Docker command."
   icon: "headphone"
   path: specs/deployment/readme
 
@@ -28,10 +33,6 @@
   icon: "leaf"
   path: specs/standards/
 
-- title: "Tutorials"
-  description: "A set of tutorials is provided to support the development of Hyperties, Apps and Message Nodes "
-  icon: "planet"
-  path: specs/tutorials/readme
 
 #- title: "Toolkits"
 #  description: "Developers can use Hyperties in Applications by using any framework or tool, with a few lines of code "
